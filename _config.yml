@@ -63,7 +63,7 @@ author:
   bio    : "Bioinformatics PhD Candidate at UC Santa Cruz."
   links:
     - label: "aanakamo@ucsc.edu"
-      icon: "fa-soild fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto: aanakamo@ucsc.edu"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
@@ -80,7 +80,7 @@ author:
 
 footer:
   links:
-    - label: "aanakamo@ucsc.edu"
+    - label: "Email"
       icon: "fa-solid fa-envelope"
       url: "mailto: aanakamo@ucsc.edu"
     - label: "Google Scholar"
