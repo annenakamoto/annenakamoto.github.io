@@ -20,6 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 #twitter_username: username
 github_username: annenakamoto
 minimal_mistakes_skin: default
+
+head_scripts:
+  - /assets/css/custom.css
+
 search: true
 
 # Build settings
