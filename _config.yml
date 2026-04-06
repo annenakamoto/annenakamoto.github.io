@@ -27,13 +27,13 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 #remote_theme: benbalter/retlab
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#permalink: /:categories/:title/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+#timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
+#include:
+#  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -61,26 +61,29 @@ author:
   name   : "Anne Nakamoto"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Bioinformatics PhD Candidate at UC Santa Cruz."
+  email  : "aanakamo@ucsc.edu"
   links:
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://scholar.google.com/citations?user=d3Ndg64AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-
+      url: "https://github.com/annenakamoto"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/annenakamoto.bsky.social"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=d3Ndg64AAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/annenakamoto"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/annenakamoto.bsky.social"
 
 defaults:
   # _posts
