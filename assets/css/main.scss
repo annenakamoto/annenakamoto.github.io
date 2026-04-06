@@ -1,10 +1,20 @@
+---
+# Only the main Sass file needs front matter
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Custom icon colors */
-.fa-google-scholar {
-  color: #4285F4;
+/* custom icon colors */
+.author__urls .fa-google-scholar,
+.page__footer .fa-google-scholar {
+  color: #4285F4 !important;
 }
 
-.fa-orcid {
-  color: #A6CE39;
+.author__urls .fa-orcid,
+.page__footer .fa-orcid {
+  color: #A6CE39 !important;
 }
