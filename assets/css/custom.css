@@ -1,9 +1,7 @@
-/* Google Scholar blue */
-.fa-google-scholar {
-  color: #4285F4;
+.author__urls .fa-google-scholar {
+  color: #4285F4 !important;
 }
 
-/* ORCID green */
-.fa-orcid {
-  color: #A6CE39;
+.author__urls .fa-orcid {
+  color: #A6CE39 !important;
 }
