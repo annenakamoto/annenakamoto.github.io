@@ -20,17 +20,13 @@ search: false
 }
 
 /* custom citation format */
-.pub-citation {
-  font-family: 'Libre Baskerville', Georgia, serif;
+.page__content .pub-citation {
+  font-family:  Consolas, "Courier New", monospace; /*'Libre Baskerville', Georgia, serif; */
   font-size: 0.5em;
   color: #828282;
   margin-top: 0.4em;
   margin-bottom: 0.6em;
 }
-
-/*.pub-citation a {
-  color: #1a73e8;
-} */
 
 .pub-citation strong {
   font-weight: 700;
