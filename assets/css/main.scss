@@ -49,3 +49,13 @@ search: false
 .sidebar:hover {
     opacity: 1 !important;
 }
+
+/* change main content page width */
+.page {
+    width: calc(100% - 250px);
+    padding-right: 2em;
+}
+
+.page__inner-wrap {
+    max-width: 1500px;
+}
