@@ -25,6 +25,10 @@ search: false
   color: #A6CE39 !important;
 }
 
+.author__avatar img {
+    max-width: 180px;   /* adjust size */
+}
+
 /* custom citation format */
 .page__content .pub-citation {
   /* font-family:  Georgia, "Times New Roman", Times, serif; /* 'Libre Baskerville', Georgia, serif; */
