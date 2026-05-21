@@ -59,3 +59,12 @@ search: false
 .page__inner-wrap {
     max-width: 1500px;
 }
+
+/* change left sidebar width */
+.sidebar {
+    width: 180px;
+}
+
+.page {
+    width: calc(100% - 180px);
+}
