@@ -56,7 +56,13 @@ search: false
 }
 
 /* change left sidebar width */
-.sidebar {
-    width: 220px;
+@media (min-width: 1024px) {
+    .sidebar {
+        width: 220px;
+    }
+
+    .page {
+        width: calc(100% - 190px);
+    }
 }
 
