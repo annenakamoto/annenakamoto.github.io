@@ -50,10 +50,6 @@ search: false
     opacity: 1 !important;
 }
 
-/* change main content page width */
-.page__inner-wrap {
-    max-width: 1600px;
-}
 
 /* change left sidebar width */
 @media (min-width: 1024px) {
@@ -62,7 +58,7 @@ search: false
     }
 
     .page {
-        width: calc(100% - 190px);
+        width: calc(100% - 230px);
     }
 }
 
