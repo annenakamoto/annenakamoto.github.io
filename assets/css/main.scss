@@ -53,18 +53,18 @@ search: false
 /* change main content page width */
 .page {
     width: calc(100% - 250px);
-    padding-right: 2em;
+    padding-right: 0.5em;
 }
 
 .page__inner-wrap {
-    max-width: 1500px;
+    max-width: 1400px;
 }
 
 /* change left sidebar width */
 .sidebar {
-    width: 180px;
+    width: 200px;
 }
 
 .page {
-    width: calc(100% - 180px);
+    width: calc(100% - 200px);
 }
