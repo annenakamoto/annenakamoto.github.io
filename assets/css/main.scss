@@ -9,24 +9,66 @@ search: false
 @import "minimal-mistakes";
 
 
-/* Widen content area with author sidebar */
-/* Only apply on desktop/larger tablets */
+/* =========================================================
+   Desktop page layout
+   ========================================================= */
+
 @media screen and (min-width: 64em) {
   #main {
+    display: grid;
+    grid-template-columns: 250px minmax(0, 1200px);
+    column-gap: 50px;
+
+    width: calc(100% - 64px);
     max-width: 1600px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+    padding-left: 32px;
+    padding-right: 32px;
+    box-sizing: border-box;
   }
-  /* .sidebar {
-    width: 250px;
+
+  .sidebar {
+    float: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
+
+    grid-column: 1;
+    align-self: start;
+
+    position: sticky;
+    top: 5em;
   }
-  .archive,
-  .page {
-    width: calc(100% - 300px);
-    max-width: 1200px;
-  } */
+
+  .page,
+  .archive {
+    float: none;
+    width: auto;
+    max-width: none;
+    margin: 0;
+
+    grid-column: 2;
+    min-width: 0;
+  }
+
+  .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+  }
+
+  html {
+    font-size: 20px !important;
+  }
 }
 
+
+/* =========================================================
+   Main text and headings
+   ========================================================= */
+
+.page__content {
+  color: #000;
+}
 
 .page__content h1,
 .page__content h2,
@@ -37,83 +79,61 @@ search: false
   color: #000;
 }
 
-/* custom icon colors */
+
+/* =========================================================
+   Author sidebar
+   ========================================================= */
+
+.author__avatar img {
+  max-width: 160px;
+}
+
+.sidebar,
+.sidebar:hover {
+  opacity: 1 !important;
+}
+
+
+/* =========================================================
+   Sidebar icon colors
+   ========================================================= */
+
 .author__urls .fa-google-scholar,
 .page__footer .fa-google-scholar {
-  color: #4285F4 !important;
+  color: #4285f4 !important;
 }
 
 .author__urls .fa-orcid,
 .page__footer .fa-orcid {
-  color: #A6CE39 !important;
+  color: #a6ce39 !important;
 }
 
-/* custom citation format */
+
+/* =========================================================
+   Publication citations
+   ========================================================= */
+
 .page__content .pub-citation {
-  /* font-family:  Georgia, "Times New Roman", Times, serif; /* 'Libre Baskerville', Georgia, serif; */
   font-size: 0.75em;
   color: #828282;
   margin-top: 0.4em;
   margin-bottom: 0.6em;
 }
 
-.pub-citation strong {
+.page__content .pub-citation strong {
   font-weight: 700;
 }
 
-.author__avatar img {
-    max-width: 160px;   /* adjust avatar picture size */
-}
 
-/* turn off sidebar opacity */
-.sidebar {
-    opacity: 1 !important;
-}
-.sidebar:hover {
-    opacity: 1 !important;
-}
+/* =========================================================
+   Top navigation
+   ========================================================= */
 
-
-/* change left sidebar width
-@media (min-width: 1024px) {
-    .sidebar {
-        width: 220px;
-    }
-
-    .page {
-        width: calc(100% - 250px);
-    }
-} */
-
-
-/* Force navigation links to the left
-.masthead__menu {
-  float: left;
-}
-
-.greedy-nav {
-  float: left;
-} */
-
-/* Navigation tab color */
 .greedy-nav .visible-links a {
-  color: #007988;   /* Replace with your desired color */
+  color: #007988;
+  font-weight: 700;
 }
 
 .greedy-nav .visible-links a:hover {
   color: #007988;
 }
-
-
-/* Keep text size same when window narrows */
-/* html {
-  font-size: 20px !important;
-} */
-
-@media screen and (min-width: 64em) {
-  html {
-    font-size: 20px !important;
-  }
-}
-
-
