@@ -2,3 +2,24 @@
 permalink: /teaching/ 
 title: "Teaching"
 ---
+
+<h2 class="mt5" id="teaching">Teaching</h2>
+  <h3>BMEB Bootcamp for 1st year graduate students</h3>
+  <p> I was an instructor for the BMEB Bootcamp, a two-week orientation for incoming PhD and Masters students led by the T32 Genome Sciences Fellows 
+    in the Department of Biomolecular Engineering & Bioinformatics at UC Santa Cruz. I led students in hands-on genome sequencing and assembly tutorials, 
+    and prepared a genome announcement manuscript with all trainees as co-authors.
+    See my poster presented at the 2026 NHGRI Training Conference for more details on the training program and outcomes. </p>
+  <ul>
+    <li><a class="link blue underline-hover" href="https://github.com/annenakamoto/Bootcamp2025/blob/main/Assembly_Tutorial.md">Genome Assembly Tutorial</a></li>
+    <li><a class="link blue underline-hover" href="https://doi.org/10.1128/mra.00236-26">C. huliohia genome announcement publication</a></li>
+    <li><a class="link blue underline-hover" href="https://github.com/annenakamoto/annenakamoto.github.io/blob/master/assets/posters/nhgri2026_anne.pdf">NHGRI 2026 Poster</a></li>
+  </ul>
+
+  <h3>Genomes and Plant Health Workshop</h3>
+  <p> I was an instructor for the Genomes and Plant Health Workshop, hosted by Ksenia Krasileva's Lab in the Department of Plant and Microbial Biology 
+    at UC Berkeley. I taught undergraduate and high school students a section of the workshop on genomics and computational biology, and developed a Google Colab tutorial 
+    to teach transposable element (TE) annotation.</p>
+  <ul>
+    <li><a class="link blue underline-hover" href="https://github.com/annenakamoto/GAPH2022/blob/main/GAPH_TEs.ipynb">TE Annotation Tutorial</a></li>
+  </ul>
+  
