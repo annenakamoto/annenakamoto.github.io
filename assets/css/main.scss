@@ -9,12 +9,12 @@ search: false
 @import "minimal-mistakes";
 
 
-.page {
+.archive {
+  width: 100%;
   max-width: 1600px;
 }
 
 .page__content {
-  max-width: 1300px;
   font-size: 0.9em;
   color: #000;
 }
