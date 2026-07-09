@@ -9,10 +9,25 @@ search: false
 @import "minimal-mistakes";
 
 
-.page__content {
-  font-size: 0.9em;
+.page {
+  max-width: 1500px;
 }
 
+.page__content {
+  font-size: 0.9em;
+  color: #000;
+  max-width: 1000px;
+}
+
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: #000;
+}
 
 /* custom icon colors */
 .author__urls .fa-google-scholar,
@@ -98,3 +113,5 @@ html {
     font-size: 20px !important;
   }
 }
+
+
