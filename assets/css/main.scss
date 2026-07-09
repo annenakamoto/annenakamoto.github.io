@@ -63,12 +63,11 @@ search: false
 }
 
 
-/* Move the top navigation to the left */
-.greedy-nav {
-  justify-content: flex-start;
+/* Force navigation links to the left */
+.masthead__menu {
+  float: left;
 }
 
-.greedy-nav .visible-links {
-  margin-left: 0;
-  margin-right: auto;
+.greedy-nav {
+  float: left;
 }
