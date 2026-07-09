@@ -1,3 +1,6 @@
+# main links
 main:
   - title: "About"
-    url: /_pages/about.md
+    url: https://annenakamoto.github.io/_pages/about.md
+  - title: "Posts"
+    url: /posts/
