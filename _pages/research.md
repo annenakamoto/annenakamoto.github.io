@@ -3,6 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
+##
 ## California Conservation Genomics Project
 
 <img src="/assets/images/ccgp_krig_hotspot.png" class="db ba w-100" />
