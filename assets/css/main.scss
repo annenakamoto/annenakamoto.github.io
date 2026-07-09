@@ -71,3 +71,12 @@ search: false
 .greedy-nav {
   float: left;
 }
+
+/* Navigation tab color */
+.greedy-nav .visible-links a {
+  color: #007988;   /* Replace with your desired color */
+}
+
+.greedy-nav .visible-links a:hover {
+  color: #007988;
+}
