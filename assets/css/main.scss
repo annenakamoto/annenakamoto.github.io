@@ -11,17 +11,11 @@ search: false
 
 /* Widen content area with author sidebar */
 #main {
-  max-width: 1600px;
+  max-width: 1500px !important;
 }
-
-.sidebar {
-  width: 250px;
-}
-
-.archive,
 .page {
-  width: calc(100% - 300px);
-  max-width: 1200px;
+  width: calc(100% - 300px) !important;
+  max-width: 1050px !important;
 }
 
 
