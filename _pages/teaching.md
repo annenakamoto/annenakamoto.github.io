@@ -3,7 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-##
+<p> </p>
+
 ## BMEB Bootcamp for 1st year graduate students
 
 I was an instructor for the BMEB Bootcamp, a two-week orientation for incoming PhD and Masters students led by the T32 Genome Sciences Fellows in the Department of Biomolecular Engineering & Bioinformatics at UC Santa Cruz. I led students in hands-on genome sequencing and assembly tutorials, and prepared a genome announcement manuscript with all trainees as co-authors. See my poster presented at the 2026 NHGRI Training Conference for more details on the training program and outcomes.
