@@ -84,17 +84,17 @@ search: false
 
 /* Keep text size same when window narrows */
 html {
-  font-size: 16px !important;
+  font-size: 20px !important;
 }
 
 @media screen and (min-width: 48em) {
   html {
-    font-size: 16px !important;
+    font-size: 20px !important;
   }
 }
 
 @media screen and (min-width: 64em) {
   html {
-    font-size: 16px !important;
+    font-size: 20px !important;
   }
 }
