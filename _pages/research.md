@@ -3,31 +3,18 @@ permalink: /research/
 title: "Research"
 ---
 
-<div class="pv1" id="ccgp">
-  <h3>California Conservation Genomics Project</h3>
+## California Conservation Genomics Project
 
-  <p><img src="/assets/images/ccgp_krig_hotspot.png" class="db ba w-100" /></p>
+<img src="/assets/images/ccgp_krig_hotspot.png" class="db ba w-100" />
 
-  <p> I perform analyses investigating population health for the  
-    <a class="link blue underline-hover" href="https://www.ccgproject.org/">
-      California Conservation Genomics Project (CCGP)</a>. 
-    In particular, I study differences in mutation load between CCGP species populations across the 
-    landscape of California.  </p>
+I perform analyses investigating population health for the [California Conservation Genomics Project (CCGP)](https://www.ccgproject.org/). In particular, I study differences in mutation load between CCGP species populations across the landscape of California.
 
-  
 
-<div class="pv1" id="hawaii">
-  <h3>Evolutionary histories of invasive fungal pathogens causing rapid death of the native ‘ōhi‘a tree in Hawai‘i</h3>
+## Evolutionary histories of invasive fungal pathogens causing rapid death of the native ‘ōhi‘a tree in Hawai‘i
 
-  <p><img src="/assets/images/rod_isolates.png" class="db ba w-100" /></p>
+<img src="/assets/images/rod_isolates.png" class="db ba w-100" />
 
-  <p> Hawai‘i’s native forests are threatened by Rapid ‘Ōhi‘a Death (ROD), a disease of the keystone and culturally significant 
-    native ‘ōhi‘a tree (<i>Metrosideros polymorpha</i>) species. ROD was first characterized in 2014, and is caused by two novel, non-native 
-    fungal pathogen species, <i>Certaocystis lukuohia</i> and <i>huliohia</i>. Previous work has shown that <i>C. lukuohia</i> causes more aggressive 
-    disease, and likely originated from a single introduction to Hawai‘i Island within the past few decades. Meanwhile, <i>C. huliohia</i> 
-    is less aggressive, contains greater genetic diversity, and may have been introduced much earlier. Given these differences, there 
-    is currently much discussion regarding the respective management strategies of the two ROD pathogens. However, the evolutionary 
-    histories and invasion dynamics of both pathogens are not well understood, and their genomes remain largely uncharacterized.</p>
+Hawai‘i’s native forests are threatened by Rapid ‘Ōhi‘a Death (ROD), a disease of the keystone and culturally significant native ‘ōhi‘a tree (_Metrosideros polymorpha_) species. ROD was first characterized in 2014, and is caused by two novel, non-native fungal pathogen species, _Certaocystis lukuohia_ and _huliohia_. Previous work has shown that _C. lukuohia_ causes more aggressive disease, and likely originated from a single introduction to Hawai‘i Island within the past few decades. Meanwhile, _C. huliohia_ is less aggressive, contains greater genetic diversity, and may have been introduced much earlier. Given these differences, there is currently much discussion regarding the respective management strategies of the two ROD pathogens. However, the evolutionary histories and invasion dynamics of both pathogens are not well understood, and their genomes remain largely uncharacterized.
 
   <p class="pub-citation"><strong>Anne Nakamoto</strong>, Lisa Keith, Qingyi Yu, Lionel Sugiyama, 
     Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, 
@@ -39,15 +26,11 @@ title: "Research"
     </p>
 
 
+## Transposable element dynamics
 
-<div class="pv1" id="tes">
+<img src="/assets/images/moryzae_tes.png" class="db ba w-100" />
 
-  <p> </p>
-  <h3>Transposable element dynamics </h3>
-
-  <p><img src="/assets/images/moryzae_tes.png" class="db ba w-100" /></p>
-
-  <!-- <p> [description].</p> -->
+I have also done work on characterizing transposable element (TE) evolutionary dynamics. My undergraduate research in Ksenia Krasileva's lab investigated intraspecific variation of TEs in different pathotypes of the rice blast disease pathogen, _Magnaporthe oryzae_. I have also contributed to work on intron-generating TEs called introners.
 
   <p class="pub-citation"><strong>Anne Nakamoto</strong>,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of 
     transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. 
