@@ -80,3 +80,21 @@ search: false
 .greedy-nav .visible-links a:hover {
   color: #007988;
 }
+
+
+/* Keep text size same when window narrows */
+html {
+  font-size: 16px !important;
+}
+
+@media screen and (min-width: 48em) {
+  html {
+    font-size: 16px !important;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  html {
+    font-size: 16px !important;
+  }
+}
