@@ -13,7 +13,9 @@ search: false
 /* Only apply on desktop/larger tablets */
 @media screen and (min-width: 64em) {
   #main {
-    max-width: 1500px;
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
   }
   /* .sidebar {
     width: 250px;
