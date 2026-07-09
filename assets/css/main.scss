@@ -10,18 +10,19 @@ search: false
 
 
 /* Widen content area with author sidebar */
-#main {
-  max-width: 1500px !important;
-}
-.page {
-  width: calc(100% - 300px) !important;
-  max-width: 1050px !important;
-}
-
-
-.page__content {
-  font-size: 0.9em;
-  color: #000;
+/* Only apply on desktop/larger tablets */
+@media screen and (min-width: 48em) {
+  #main {
+    max-width: 1600px;
+  }
+  .sidebar {
+    width: 250px;
+  }
+  .archive,
+  .page {
+    width: calc(100% - 300px);
+    max-width: 1200px;
+  }
 }
 
 
