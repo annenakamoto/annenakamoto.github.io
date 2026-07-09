@@ -23,7 +23,7 @@ I am currently leading the generation of long-read genome assemblies for _Cerato
     <li><a class="link blue underline-hover" href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_054512535.1/"><i>Ceratocystis huliohia</i>:
         isolate C25-5 (GCA_054512535.1)</a></li>
   </ul>
-  <p><img src="/assets/images/C25-5_genome.png" class="db ba w-20" /></p>
+  <p><img src="/assets/images/C25-5_genome.png" class="db ba w-20" width="20%" align="right" /></p>
 
   <p class="pub-citation"><strong>Anne Nakamoto</strong>, Lisa Keith, Qingyi Yu, Lionel Sugiyama, 
     Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, 
