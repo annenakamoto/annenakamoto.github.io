@@ -9,8 +9,19 @@ search: false
 @import "minimal-mistakes";
 
 
-.initial-content {
+/* Widen content area with author sidebar */
+#main {
   max-width: 1600px;
+}
+
+.sidebar {
+  width: 250px;
+}
+
+.archive,
+.page {
+  width: calc(100% - 300px);
+  max-width: 1200px;
 }
 
 
