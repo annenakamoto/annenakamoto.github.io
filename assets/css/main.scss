@@ -16,7 +16,7 @@ search: false
 @media screen and (min-width: 64em) {
   #main {
     display: grid;
-    grid-template-columns: minmax(100px, 250px) minmax(0, 1400px);
+    grid-template-columns: minmax(100px, 200px) minmax(0, 1400px);
     column-gap: 50px;
 
     width: calc(100% - 50px);
@@ -61,6 +61,53 @@ search: false
   }
 }
 
+@media screen and (min-width: 48em) {
+  #main {
+    display: grid;
+    grid-template-columns: minmax(100px, 150px) minmax(0, 1400px);
+    column-gap: 50px;
+
+    width: calc(100% - 50px);
+    max-width: 1400px;
+    margin: 0 auto;
+    padding-left: 50px;
+    /*padding-right: 32px;*/ 
+    box-sizing: border-box;
+  }
+
+  .sidebar {
+    float: none;
+    width: auto;
+    margin: 0;
+    padding: 0;
+
+    grid-column: 1;
+    align-self: start;
+
+    position: sticky;
+    top: 5em;
+  }
+
+  .page,
+  .archive {
+    float: none;
+    width: auto;
+    max-width: none;
+    margin: 0;
+
+    grid-column: 2;
+    min-width: 0;
+  }
+
+  .page__inner-wrap {
+    width: 100%;
+    max-width: none;
+  }
+
+  html {
+    font-size: 20px !important;
+  }
+}
 
 /* =========================================================
    Main text and headings
