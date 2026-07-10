@@ -20,7 +20,7 @@ Hawai‘i’s native forests are threatened by Rapid ‘Ōhi‘a Death (ROD), a 
 
 I am currently leading the generation of long-read genome assemblies for _Ceratocystis lukuohia_ and _huliohia_, to facilitate comparative genomic study of the Rapid ‘Ōhi‘a Death disease. The first of these genomes for _C. huliohia_ is available on NCBI. More to come!
 
-  <p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="40%" align="right" /></p>
+  <p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="45%" align="right" /></p>
 
   <ul>
     <li><a class="link blue underline-hover" href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_054512535.1/"><i>Ceratocystis huliohia</i>:
@@ -41,7 +41,7 @@ I am currently leading the generation of long-read genome assemblies for _Cerato
 
 <img src="/assets/images/moryzae_tes.png" class="db ba w-100" />
 
-I have also done work on characterizing transposable element (TE) evolutionary dynamics. My undergraduate research in Ksenia Krasileva's lab investigated intraspecific variation of TEs in different pathotypes of the rice blast disease pathogen, _Magnaporthe oryzae_. I have also contributed to work on intron-generating TEs called introners.
+I am also interested in genome structural evolution, and specifically how transposable elements (TEs) contribute to the evolution of genome structure. My undergraduate research in [Ksenia Krasileva's lab](https://krasilevalab.org/) investigated intraspecific variation of TEs in different pathotypes of the rice blast disease pathogen, _Magnaporthe oryzae_. I have also contributed to work on intron-generating TEs called introners.
 
   <p class="pub-citation"><strong>Anne Nakamoto</strong>,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of 
     transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. 
