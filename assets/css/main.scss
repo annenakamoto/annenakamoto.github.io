@@ -140,11 +140,10 @@ search: false
 }
 
 /* Site title in upper left */
-/* Site title in upper left */
-.site-title {
-  color: #007988;
+.greedy-nav a.site-title,
+.greedy-nav a.site-title:visited,
+.greedy-nav a.site-title:hover,
+.greedy-nav a.site-title:focus {
+  color: #007988 !important;
   font-weight: 700;
-}
-.site-title:hover {
-  color: #007988;
 }
