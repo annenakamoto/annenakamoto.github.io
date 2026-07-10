@@ -14,7 +14,7 @@ I perform analyses investigating population health for the [California Conservat
 
 ## Evolutionary histories of invasive fungal pathogens causing rapid death of the native ‘ōhi‘a tree in Hawai‘i
 
-<img src="/assets/images/rod_isolates.png" class="db ba w-100" />
+<img src="/assets/images/hawaii_rod_isolate_map_2026.png" class="db ba w-100" />
 
 Hawai‘i’s native forests are threatened by Rapid ‘Ōhi‘a Death (ROD), a disease of the keystone and culturally significant native ‘ōhi‘a tree (_Metrosideros polymorpha_) species. ROD was first characterized in 2014, and is caused by two novel, non-native fungal pathogen species, _Certaocystis lukuohia_ and _huliohia_. Previous work has shown that _C. lukuohia_ causes more aggressive disease, and likely originated from a single introduction to Hawai‘i Island within the past few decades. Meanwhile, _C. huliohia_ is less aggressive, contains greater genetic diversity, and may have been introduced much earlier. Given these differences, there is currently much discussion regarding the respective management strategies of the two ROD pathogens. However, the evolutionary histories and invasion dynamics of both pathogens are not well understood, and their genomes remain largely uncharacterized.
 
@@ -23,7 +23,7 @@ I am currently leading the generation of long-read genome assemblies for _Cerato
     <li><a class="link blue underline-hover" href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_054512535.1/"><i>Ceratocystis huliohia</i>:
         isolate C25-5 (GCA_054512535.1)</a></li>
   </ul>
-  <p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="20%" align="right" /></p>
+  <p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="40%" align="right" /></p>
 
   <p class="pub-citation"><strong>Anne Nakamoto</strong>, Lisa Keith, Qingyi Yu, Lionel Sugiyama, 
     Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, 
