@@ -19,10 +19,10 @@ search: false
     grid-template-columns: minmax(100px, 250px) minmax(0, 1400px);
     column-gap: 50px;
 
-    width: calc(100% - 30px);
+    width: calc(100% - 50px);
     max-width: 1400px;
     margin: 0 auto;
-    /*padding-left: 90px;*/
+    padding-left: 50px;
     /*padding-right: 32px;*/ 
     box-sizing: border-box;
   }
