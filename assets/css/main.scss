@@ -16,11 +16,11 @@ search: false
 @media screen and (min-width: 64em) {
   #main {
     display: grid;
-    grid-template-columns: 240px minmax(0, 1400px);
+    grid-template-columns: 240px minmax(0, 1600px);
     column-gap: 60px;
 
     width: calc(100% - 10px);
-    max-width: 1400px;
+    max-width: 1600px;
     margin: 0 auto;
     padding-left: 50px;
     /*padding-right: 32px;*/ 
