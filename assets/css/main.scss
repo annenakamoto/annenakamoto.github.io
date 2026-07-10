@@ -140,10 +140,11 @@ search: false
 }
 
 /* Site title in upper left */
-.masthead__menu-item--lg a {
+/* Site title in upper left */
+.site-title {
   color: #007988;
   font-weight: 700;
 }
-.masthead__menu-item--lg a:hover {
+.site-title:hover {
   color: #007988;
 }
