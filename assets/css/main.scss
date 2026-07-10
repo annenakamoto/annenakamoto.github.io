@@ -130,11 +130,20 @@ search: false
    Top navigation
    ========================================================= */
 
+/* Site pages */
 .greedy-nav .visible-links a {
   color: #007988;
   font-weight: 700;
 }
-
 .greedy-nav .visible-links a:hover {
+  color: #007988;
+}
+
+/* Site title in upper left */
+.site-title {
+  color: #007988;
+  font-weight: 700;
+}
+.site-title:hover {
   color: #007988;
 }
