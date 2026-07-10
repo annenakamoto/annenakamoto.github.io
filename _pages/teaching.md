@@ -16,7 +16,7 @@ I was an instructor for the BMEB Bootcamp, a two-week orientation for incoming P
 
 ## Genomes and Plant Health Workshop
 
-I was an instructor for the Genomes and Plant Health Workshop, hosted by Ksenia Krasileva's Lab in the Department of Plant and Microbial Biology at UC Berkeley. I taught undergraduate and high school students a section of the workshop on genomics and computational biology, and developed a Google Colab tutorial to teach transposable element (TE) annotation.</p>
+I was an instructor for the Genomes and Plant Health Workshop, hosted by Ksenia Krasileva's Lab in the Department of Plant and Microbial Biology at UC Berkeley. I taught undergraduate and high school students a section of the workshop on genomics and computational biology, and developed a Google Colab tutorial to teach transposable element (TE) annotation.
   <ul>
     <li><a class="link blue underline-hover" href="https://github.com/annenakamoto/GAPH2022/blob/main/GAPH_TEs.ipynb">TE Annotation Tutorial</a></li>
   </ul>
