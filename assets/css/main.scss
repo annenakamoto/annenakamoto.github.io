@@ -193,3 +193,31 @@ search: false
   margin-bottom: 0.4rem;
 }
 
+
+/* Embedded CV page */
+.cv-page .page__inner-wrap {
+  max-width: none;
+}
+.cv-frame-wrapper {
+  width: 100%;
+}
+.cv-frame {
+  display: block;
+  width: 100%;
+  height: 85vh;
+  min-height: 800px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fff;
+}
+.cv-external-link {
+  margin-top: 0.75rem;
+  font-size: 0.8em;
+}
+@media screen and (max-width: 63.99em) {
+  .cv-frame {
+    height: 80vh;
+    min-height: 600px;
+  }
+}
+
