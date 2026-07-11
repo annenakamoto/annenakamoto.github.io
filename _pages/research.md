@@ -47,7 +47,7 @@ I am currently leading the generation of long-read genome assemblies for _Cerato
 
 <img src="/assets/images/moryzae_tes.png" class="db ba w-100" />
 
-I am also interested in genome structural evolution, and specifically how transposable elements (TEs) contribute to the genomic evolution. My undergraduate research in [Ksenia Krasileva's lab](https://krasilevalab.org/) investigated intraspecific variation of TEs in different pathotypes of the rice blast disease pathogen, _Magnaporthe oryzae_. I have also contributed to work on the horizontal transfer of intron-generating TEs called introners.
+I am also interested in genome structural evolution, and specifically how transposable elements (TEs) contribute to genomic evolution. My undergraduate research in [Ksenia Krasileva's lab](https://krasilevalab.org/) investigated intraspecific variation of TEs in different pathotypes of the rice blast disease pathogen, _Magnaporthe oryzae_. I have also contributed to work on the horizontal transfer of intron-generating TEs called introners.
 
   <p class="pub-citation"><strong>Anne Nakamoto</strong>,* Pierre Joubert,* Ksenia Krasileva. Intraspecific variation of 
     transposable elements reveals differences in the evolutionary history of fungal phytopathogen pathotypes. 
