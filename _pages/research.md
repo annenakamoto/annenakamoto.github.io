@@ -5,7 +5,7 @@ title: "Research"
 
 <p> </p>
 
-  <p><img src="/assets/images/CCGP.png" class="db ba w-100" width="15%" align="right" /></p>
+  <p><img src="/assets/logos/CCGP.png" class="db ba w-100" width="15%" align="right" /></p>
 ## California Conservation Genomics Project
 
 <img src="/assets/images/ccgp_krig_hotspot.png" class="db ba w-100" />
