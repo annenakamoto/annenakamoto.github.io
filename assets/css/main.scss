@@ -226,3 +226,15 @@ search: false
   }
 }
 
+
+/* Fix related posts layout */
+.page__related .grid__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+.page__related .grid__item {
+  flex: 1 1 300px;
+  min-width: 250px;
+}
+
