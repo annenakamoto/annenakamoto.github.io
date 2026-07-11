@@ -10,7 +10,7 @@ title: "Research"
 
 <img src="/assets/images/ccgp_krig_hotspot.png" class="db ba w-100" />
 
-A landscape-scale approach to conservation genomics considers the health of multiple species and their populations together across a landscape. I work with [Erik Enbody](https://erikenbody.github.io/#/) to investigate how genomic data can inform population health for an entire community of California wildlife through the [California Conservation Genomics Project (CCGP)](https://www.ccgproject.org/). In particular, I study differences in mutation load in CCGP species populations across California's landscape. For more details, see my poster for the PEQG 2026 Conference below.
+A landscape-scale approach to conservation genomics considers the health of multiple species and their populations together across a landscape. I work with [Erik Enbody](https://erikenbody.github.io/#/) to investigate how genomic data can inform population health for an entire community of California wildlife through the [California Conservation Genomics Project (CCGP)](https://www.ccgproject.org/). In particular, I study differences in mutation load in CCGP species populations. For more details, see my poster for the PEQG 2026 Conference below.
 
   <ul>
     <li><a class="link blue underline-hover" href="https://github.com/annenakamoto/annenakamoto.github.io/blob/master/assets/posters/peqg2026_anne.pdf">PEQG 2026 Poster</a></li>
