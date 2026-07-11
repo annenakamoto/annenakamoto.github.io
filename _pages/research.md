@@ -5,7 +5,7 @@ title: "Research"
 
 <p> </p>
 
-  <p><img src="/assets/logos/CCGP.png" class="db ba w-100" width="11%" align="right" /></p>
+  <p><img src="/assets/logos/CCGP.png" class="db ba w-100" width="12%" align="right" /></p>
 ## California Conservation Genomics Project
 
 <img src="/assets/images/ccgp_krig_hotspot.png" class="db ba w-100" />
@@ -17,7 +17,7 @@ A landscape-scale approach to conservation genomics considers the health of mult
   </ul>
 
 
-  <p><img src="/assets/images/lehua.png" class="db ba w-100" width="11%" align="right" /></p>
+  <p><img src="/assets/images/lehua.png" class="db ba w-100" width="12%" align="right" /></p>
 ## Evolutionary histories of invasive fungal pathogens causing rapid death of the native ‘ōhi‘a tree in Hawai‘i
 
 <img src="/assets/images/hawaii_rod_isolate_map_2026.png" class="db ba w-100" />
