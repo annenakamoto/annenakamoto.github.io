@@ -96,6 +96,8 @@ footer:
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/annenakamoto.bsky.social"
 
+permalink: /posts/:title/
+
 defaults:
   # _posts
   - scope:
