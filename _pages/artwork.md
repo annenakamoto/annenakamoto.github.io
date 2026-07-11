@@ -28,5 +28,5 @@ My design for the Hawaii District Science & Engineering Fair T-shirt Design Cont
 
 ## PACT Keiki Day Poster Contest 2016
 <img src="/assets/images/pact_poster_2016.jpg" class="db ba w-100" width="60%" align="right" style="margin: 3%" />
-My painting for Parents and Children Together Keiki Day Poster Contest won 1st place. The theme was "Diversity," and my entry depicts the diversity of native Hawaiian honeycreeper species in Hawai‘i.
+My painting for the 2016 Parents and Children Together Keiki Day Poster Contest won 1st place. The theme was "Diversity," and my entry depicts the diversity of native Hawaiian honeycreeper species.
 
