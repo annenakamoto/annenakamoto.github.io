@@ -175,11 +175,20 @@ search: false
 .publications-page .page__content {
   font-size: 0.8em;
   line-height: 1.45;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .publications-page .page__content h3 {
   font-size: 1.15em;
   font-weight: 700;
   color: #000000;
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+}
+.publications-page .page__content h2 {
+  font-size: 1.35em;
+  font-weight: 700;
+  color: #007988;
   margin-top: 2rem;
   margin-bottom: 0.4rem;
 }
