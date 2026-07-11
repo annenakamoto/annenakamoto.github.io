@@ -40,8 +40,8 @@ search: false
     top: 5em;
   }
 
-  .page,
-  .archive {
+  #main > .page,
+  #main > .archive {
     float: none;
     width: auto;
     max-width: none;
