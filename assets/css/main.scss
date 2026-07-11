@@ -204,7 +204,7 @@ search: false
 .cv-frame {
   display: block;
   width: 100%;
-  height: 55vh;
+  height: 45vh;
   min-height: 800px;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -216,7 +216,7 @@ search: false
 }
 @media screen and (max-width: 63.99em) {
   .cv-frame {
-    height: 50vh;
+    height: 40vh;
     min-height: 600px;
   }
 }
