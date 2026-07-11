@@ -159,3 +159,8 @@ search: false
   color: #007988 !important;
   font-weight: 700;
 }
+
+/* Prevent section headings from appearing beside earlier images */
+.page__content h2 {
+  clear: both;
+}
