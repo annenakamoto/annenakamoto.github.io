@@ -11,11 +11,7 @@ My design for the Biomolecular Engineering & Bioinformatics Department T-shirt D
 and the 2026 BMEB Departmental Retreat program.
 
 ## Grass species icons
-<img src="/assets/images/rice.png" class="db ba w-100" width="15%" align="center" />
-<img src="/assets/images/wheat.png" class="db ba w-100" width="15%" align="center" />
-<img src="/assets/images/foxtail_millet.png" class="db ba w-100" width="15%" align="center" />
-<img src="/assets/images/finger_millet.png" class="db ba w-100" width="15%" align="center" />
-<img src="/assets/images/perennial_ryegrass.png" class="db ba w-100" width="15%" align="center" />
+<img src="/assets/images/rice.png" class="db ba w-100" width="15%" align="center" /> <img src="/assets/images/wheat.png" class="db ba w-100" width="15%" align="center" /> <img src="/assets/images/foxtail_millet.png" class="db ba w-100" width="15%" align="center" /> <img src="/assets/images/finger_millet.png" class="db ba w-100" width="15%" align="center" /> <img src="/assets/images/perennial_ryegrass.png" class="db ba w-100" width="15%" align="center" />
 
 I created species icons for five grasses representing host plants of the rice blast disease, for my [2023 paper on transposable element dynamics in _Magnaporthe oryzae_](https://doi.org/10.1093/gbe/evad206). From left to right: rice (_Oryza_), wheat (_Triticum_), foxtail (_Setaria_), goosegrass (_Eleusine_), and ryegrass (_Lolium_).
 
