@@ -1,6 +1,7 @@
 ---
 permalink: /artwork/ 
 title: "Artwork"
+classes: artwork-page
 ---
 
 <p> </p>
