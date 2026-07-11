@@ -2,7 +2,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: https://scholar.google.com/citations?user=d3Ndg64AAAAJ&hl=en&oi=ao
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
