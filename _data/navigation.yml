@@ -6,7 +6,7 @@ main:
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
-    url: https://annenakamoto.github.io/cv_anne_nakamoto/
+    url: /cv/
   - title: "Artwork"
     url: /artwork/
   - title: "Posts"
