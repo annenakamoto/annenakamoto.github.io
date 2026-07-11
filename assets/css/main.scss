@@ -169,3 +169,23 @@ search: false
   clear: both;
   padding-top: 1.5rem;
 }
+
+
+/* Publications page only */
+.publications-page .page__content {
+  font-size: 0.9em;
+  line-height: 1.45;
+}
+.publications-page .page__content h3 {
+  font-size: 1.15em;
+  font-weight: 700;
+  color: #007988;
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+}
+.publications-page .pub-citation {
+  font-size: 0.95em;
+  line-height: 1.4;
+  color: #666;
+}
+
