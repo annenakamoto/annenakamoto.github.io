@@ -1,6 +1,6 @@
 ---
-permalink: /research/ 
-title: "Research"
+permalink: /artwork/ 
+title: "Artwork"
 ---
 
 <p> </p>
