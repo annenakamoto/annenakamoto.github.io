@@ -161,6 +161,11 @@ search: false
 }
 
 /* Prevent section headings from appearing beside earlier images */
-.page__content h2 {
+/* .page__content h2 {
   clear: both;
+} */
+
+.artwork-page .page__content h2 {
+  clear: both;
+  padding-top: 1.5rem;
 }
