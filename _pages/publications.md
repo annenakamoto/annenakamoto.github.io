@@ -5,6 +5,8 @@ classes: publications-page
 ---
 
 <p> </p>
+See [here](https://scholar.google.com/citations?user=d3Ndg64AAAAJ&hl=en&oi=ao) for an up-to-date list of publications.
+*authors contributed equally
 
 ## 2026
 
