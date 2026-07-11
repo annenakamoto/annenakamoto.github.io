@@ -11,7 +11,9 @@ Genome sequence of _Ceratocystis huliohia_, a fungal pathogen of the native â€˜Å
 <p class="pub-citation"> <strong>Anne Nakamoto</strong>, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. </p>
 [Microbiology Resource Announcements, 0:e00236-26](https://doi.org/10.1128/mra.00236-26).
 
-Jodie Jacobs, Alexandra Lum, Elyse Mina, Camryn N. Morey, Darren D. Lee, Emry Gutierrez, Jonah Dionisio, Cade Mirchandani, Luke Sylvester, **Anne Nakamoto**, Hailey Loucks, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis N. Enstrom, Camille Headrick, Faith Okamoto, Harrison D. Heath, Kseniya Malukhina, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. Complete _de novo_ assembly of _Wolbachia_ endosymbiont of contemporary _Drosophila simulans_ using long-read genome sequencing. [Microbiology Resource Announcements, 0:e00992-25](https://doi.org/10.1128/mra.00992-25).
+Complete _de novo_ assembly of _Wolbachia_ endosymbiont of contemporary _Drosophila simulans_ using long-read genome sequencing.
+<p class="pub-citation"> Jodie Jacobs, Alexandra Lum, Elyse Mina, Camryn N. Morey, Darren D. Lee, Emry Gutierrez, Jonah Dionisio, Cade Mirchandani, Luke Sylvester, <strong>Anne Nakamoto</strong>, Hailey Loucks, Ciara Wanket, Ariana Cisneros, Alessandro Calicchio, Alexis N. Enstrom, Camille Headrick, Faith Okamoto, Harrison D. Heath, Kseniya Malukhina, Petria Russell, Sagorika Nag, Thomas Gillespie, William Sobolewski, Zia Truong, Shelbi L. Russell. </p>
+[Microbiology Resource Announcements, 0:e00992-25](https://doi.org/10.1128/mra.00992-25).
 
 ## 2025
 
