@@ -20,7 +20,7 @@ I created species icons for five grasses representing host plants of the rice bl
 <img src="/assets/images/hssef_poster_2017.jpg" class="db ba w-100" width="60%" align="right" style="margin: 3%" />
 My design for the Hawai‘i State Science & Engineering Fair 2017 [STEM Poster Contest](https://www.hawaiiacademyofscience.org/stem-poster-contest) 
 placed 1st in the senior division and was featured on the 2018 program. 
-The contest theme was "Plant Sciences," so my entry depicts Hawai‘i's native ‘ōhi‘a tree.
+The contest theme was "Plant Sciences," and my entry depicts Hawai‘i's native ‘ōhi‘a tree.
 
 ## Hawai‘i District Science & Engineering Fair T-shirt Design 2017
 <img src="/assets/images/hdsef_shirt_2017.jpg" class="db ba w-100" width="60%" align="left" style="margin: 3%" />
@@ -28,5 +28,5 @@ My design for the Hawaii District Science & Engineering Fair T-shirt Design Cont
 
 ## PACT Keiki Day Poster Contest 2016
 <img src="/assets/images/pact_poster_2016.jpg" class="db ba w-100" width="60%" align="right" style="margin: 3%" />
-My painting for PACT Keiki Day won 1st place in the Poster Contest, themed "Diversity."
+My painting for Parents and Children Together Keiki Day Poster Contest won 1st place. The theme was "Diversity," and my entry depicts the diversity of native Hawaiian honeycreeper species in Hawai‘i.
 
