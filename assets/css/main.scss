@@ -238,3 +238,14 @@ search: false
   min-width: 250px;
 }
 
+/* Figures with captions*/
+.figure {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+.figure figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.8em;
+  color: #777;
+  font-style: italic;
+}
