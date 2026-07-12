@@ -28,6 +28,8 @@ My work will characterize the evolutionary history of ROD through comparative ge
 
 #### Progress so far
 
+Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. My preliminary analyses of these genomes show that C. lukuohia has a larger genome size and greater TE content than C. huliohia. Additionally, analysis of single nucleotide polymorphisms (SNPs) and SVs show greater diversity in C. huliohia than C. lukuohia, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
+
 <figure class="figure">
   <img src="/assets/images/rod_genomes_round1.png" alt="Preliminary ROD genome results" width="90%">
   <figcaption>
