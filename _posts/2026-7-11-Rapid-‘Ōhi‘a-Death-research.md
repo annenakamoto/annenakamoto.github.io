@@ -44,3 +44,9 @@ Thus far, I have optimized fungal culture, high molecular weight DNA extraction,
 </figure>
 
 ### Sources
+
+Jacobi JD, Boehmer HJ, Fortini LB, Gon SMO III, Mertelmeyer L, Price J. 2024. ‘Ōhi‘a Lehua (Metrosideros polymorpha): a most resilient and persistent foundation species in Hawaiian forests. Pacific Science 77.
+
+Keith LM, Hughes RF, Sugiyama LS, Heller WP, Bushe BC, Friday JB. 2015. First report of Ceratocystis wilt on ʻŌhiʻa (Metrosideros polymorpha). Plant Dis 99:1276.
+
+Luiz BC, Giardina CP, Keith LM, Jacobs DF, Sniezko RA, Hughes MA, et al. A framework for establishing a rapid ‘Ōhi‘a death resistance program. New For. 2023;54: 637–660. 
