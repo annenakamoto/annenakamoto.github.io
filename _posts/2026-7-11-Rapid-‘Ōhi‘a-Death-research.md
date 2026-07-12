@@ -60,7 +60,7 @@ One of these has been published as a genome announcement, representing the first
   </ul>
 
 
-My preliminary analyses of this initial set of genomes show that _C. lukuohia_ has a larger genome size and greater repeat content than _C. huliohia_. Additionally, analysis of single nucleotide polymorphisms (SNPs) and SVs show greater diversity in _C. huliohia_ than _C. lukuohia_, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
+My preliminary analyses of this initial set of genomes show that _C. lukuohia_ has a larger genome size and greater repeat content than _C. huliohia_. Additionally, analysis of single nucleotide polymorphisms (SNPs) and larger scale structural variants (SVs) show greater diversity in _C. huliohia_ than _C. lukuohia_, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
 
 <figure class="figure">
   <img src="/assets/images/rod_genomes_round1.png" alt="Preliminary ROD genome results" width="90%">
@@ -68,6 +68,10 @@ My preliminary analyses of this initial set of genomes show that _C. lukuohia_ h
     Preliminary results: A) ROD isolate locations and dates for preliminary set of genomes. B) Preliminary genome set phylogeny, genome sizes, TE contents. C) Diversity (SNP and SV) rarefaction curves for both species, showing non-saturation.
   </figcaption>
 </figure>
+
+#### Next steps
+
+I plan to produce many more C. lukuohia and C. huliohia isolate genomes in order to capture the genetic diversity of these species and perform population-scale comparative analyses. I am looking forward to continuing my work on this project and bringing attention to the issue of ROD for the conservation of the native ‘ōhi‘a tree. Stay tuned!
 
 ### Sources
 
