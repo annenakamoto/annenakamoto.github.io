@@ -71,7 +71,7 @@ My preliminary analyses of this initial set of genomes show that _C. lukuohia_ h
 
 #### Next steps
 
-I plan to produce many more C. lukuohia and C. huliohia isolate genomes in order to capture the genetic diversity of these species and perform population-scale comparative analyses. I am looking forward to continuing my work on this project and bringing attention to the issue of ROD for the conservation of the native ‘ōhi‘a tree. Stay tuned!
+I plan to produce many more _C. lukuohia_ and _C. huliohia_ isolate genomes in order to capture the genetic diversity of these species and perform population-scale comparative analyses. I am looking forward to continuing my work on this project and bringing attention to the issue of ROD for the conservation of the native ‘ōhi‘a tree. Stay tuned!
 
 ### Sources
 
@@ -83,4 +83,7 @@ I plan to produce many more C. lukuohia and C. huliohia isolate genomes in order
       </p>
 
   <p class="pub-citation">Luiz BC, Giardina CP, Keith LM, Jacobs DF, Sniezko RA, Hughes MA, et al. A framework for establishing a rapid ‘Ōhi‘a death resistance program. New For. 2023;54: 637–660. 
+      </p>
+
+  <p class="pub-citation">Anne Nakamoto, Lisa Keith, Qingyi Yu, Lionel Sugiyama, Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina. Genome sequence of Ceratocystis huliohia, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i. Microbiology Resource Announcements, 0:e00236-26.
       </p>
