@@ -26,6 +26,8 @@ Hawai‘i’s forests are currently threatened by Rapid ‘Ōhi‘a Death (ROD),
 
 My work will characterize the evolutionary history of ROD through comparative genomic analyses. Over the years since 2014, my collaborators at the USDA-ARS in Hawai‘i have isolated and archived fungal samples from infected ‘ōhi‘a throughout the Hawaiian Islands. I will generate long-read genome sequencing datasets of these isolates, assemble high quality genomes, and investigate their diversity and evolutionary history. Understanding the evolutionary histories and invasion dynamics of these two pathogens will help to inform appropriate management strategies of ROD and increase preparedness for handling future diseases of the ‘ōhi‘a.
 
+#### Progress so far
+
 <figure class="figure">
   <img src="/assets/images/rod_genomes_round1.png" alt="Preliminary ROD genome results" width="90%">
   <figcaption>
