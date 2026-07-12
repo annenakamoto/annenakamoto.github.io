@@ -49,8 +49,7 @@ My work will characterize the evolutionary history of ROD through comparative ge
 #### Progress so far
 
 Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. 
-
-  <p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="45%" align="right" /></p>
+<p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="45%" align="right" /></p>
 One of these has been published as a genome announcement, representing the first publically available long-read genome of the _C. huliohia_ species. 
 
   <ul>
