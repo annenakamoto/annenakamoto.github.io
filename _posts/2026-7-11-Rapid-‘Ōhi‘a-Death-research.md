@@ -16,7 +16,7 @@ tags:
 ### The native ‘ōhi‘a tree is a keystone and culturally important species in Hawai‘i
 
 <figure class="figure">
-  <img src="/assets/images/ohia_significance.jpg" alt="Significance of the ‘ōhi‘a" width="90%">
+  <img src="/assets/images/ohia_significance.png" alt="Significance of the ‘ōhi‘a" width="90%">
   <figcaption>
     The ‘ōhi‘a is the dominant forest tree, founder species on new lava fields, provides habitat to other native species, and is used in Hawaiian cultural practices, for example making lei po‘o
   </figcaption>
