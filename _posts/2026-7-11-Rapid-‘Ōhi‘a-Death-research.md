@@ -15,18 +15,18 @@ tags:
 
 ### The native ‘ōhi‘a tree is a keystone and culturally important species in Hawai‘i
 
+‘Ōhi‘a (_Metrosideros polymorpha_) are a keystone species and the dominant native forest tree in Hawai‘i. They are pioneer species on new lava flows, and provide key habitat to many other native and endemic species. They also hold great significance in indigenous Hawaiian culture. The ‘ōhi‘a is the subject of many [moʻolelo](https://www.nps.gov/articles/000/ohia.htm) (Hawaiian legends), and its vibrant lehua blossoms are often used in making lei worn during hula. 
+
 <figure class="figure">
   <img src="/assets/images/ohia_significance.png" alt="Significance of the ‘ōhi‘a" width="90%">
   <figcaption>
     The ‘ōhi‘a is the dominant forest tree, founder species on new lava fields, provides habitat to other native species, and is used in Hawaiian cultural practices, for example making lei po‘o
   </figcaption>
 </figure>
-  
-‘Ōhi‘a are a keystone species and the dominant native forest tree in Hawai‘i. They are pioneer species on new lava flows, and provide key habitat to many other native and endemic species. They also hold great significance in indigenous Hawaiian culture. The ‘ōhi‘a is the subject of many [moʻolelo](https://www.nps.gov/articles/000/ohia.htm) (Hawaiian legends), and its vibrant lehua blossoms are often used in making lei worn during hula. 
 
 ### The Rapid ‘Ōhi‘a Death (ROD) disease has devastated ‘ōhi‘a forests
 
-Hawai‘i’s forests are currently threatened by Rapid ‘Ōhi‘a Death (ROD), a disease of the native ‘ōhi‘a tree. ROD was first characterized in 2014 and has since devastated ‘ōhi‘a forests, with >90% mortality in some areas on Hawai‘i Island. Researchers found that ROD is caused by two novel, invasive fungal pathogen species, Ceratocystis lukuohia and Ceratocystis huliohia. Although much work has been done to characterize this unprecedented disease and develop practical methods for detection and prevention, we don’t yet understand how these two distinct pathogens evolved to infect the ‘ōhi‘a upon introduction to Hawai‘i.
+Hawai‘i’s forests are currently threatened by Rapid ‘Ōhi‘a Death (ROD), a disease of the native ‘ōhi‘a tree. ROD was first characterized in 2014 and has since devastated ‘ōhi‘a forests, with >90% mortality in some areas on Hawai‘i Island. Researchers found that ROD is caused by two novel, invasive fungal pathogen species, _Ceratocystis lukuohia_ and _Ceratocystis huliohia_. Although much work has been done to characterize this unprecedented disease and develop practical methods for detection and prevention, we don’t yet understand how these two distinct pathogens evolved to infect the ‘ōhi‘a upon introduction to Hawai‘i.
 
 ### Producing genomic resources for studying the evolutionary history of ROD in Hawai‘i
 
@@ -34,7 +34,7 @@ My work will characterize the evolutionary history of ROD through comparative ge
 
 #### Progress so far
 
-Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. My preliminary analyses of these genomes show that C. lukuohia has a larger genome size and greater TE content than C. huliohia. Additionally, analysis of single nucleotide polymorphisms (SNPs) and SVs show greater diversity in C. huliohia than C. lukuohia, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
+Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. My preliminary analyses of these genomes show that _C. lukuohia_ has a larger genome size and greater TE content than _C. huliohia_. Additionally, analysis of single nucleotide polymorphisms (SNPs) and SVs show greater diversity in _C. huliohia_ than _C. lukuohia_, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
 
 <figure class="figure">
   <img src="/assets/images/rod_genomes_round1.png" alt="Preliminary ROD genome results" width="90%">
@@ -44,6 +44,7 @@ Thus far, I have optimized fungal culture, high molecular weight DNA extraction,
 </figure>
 
 ### Sources
+
 
 Jacobi JD, Boehmer HJ, Fortini LB, Gon SMO III, Mertelmeyer L, Price J. 2024. ‘Ōhi‘a Lehua (Metrosideros polymorpha): a most resilient and persistent foundation species in Hawaiian forests. Pacific Science 77.
 
