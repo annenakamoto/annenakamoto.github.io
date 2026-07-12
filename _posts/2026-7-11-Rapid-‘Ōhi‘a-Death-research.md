@@ -14,7 +14,7 @@ tags:
 ---
 
 <figure class="figure">
-  <img src="/assets/images/ohia_lava.jpg" alt="Young ‘ōhi‘a tree in lava field" width="35%" align="right" style="margin: 5%" >
+  <img src="/assets/images/ohia_lava.jpg" alt="Young ‘ōhi‘a tree in lava field" width="25%" align="right" style="margin: 5%" >
   <figcaption>
     Young ‘ōhi‘a tree in lava field
   </figcaption>
