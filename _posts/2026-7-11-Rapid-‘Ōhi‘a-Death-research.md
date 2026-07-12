@@ -60,7 +60,7 @@ One of these has been published as a genome announcement, representing the first
   </ul>
 
 
-My preliminary analyses of this initial set of genomes show that _C. lukuohia_ has a larger genome size and greater repeat content than _C. huliohia_. Additionally, analysis of single nucleotide polymorphisms (SNPs) and larger scale structural variants (SVs) show greater diversity in _C. huliohia_ than _C. lukuohia_, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
+My preliminary analyses of this initial set of genomes show that _C. lukuohia_ has a larger genome size and greater repeat content than _C. huliohia_. Additionally, analysis of single nucleotide polymorphisms (SNPs) and larger scale structural variants (SVs) show greater diversity in _C. huliohia_ than _C. lukuohia_. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
 
 <figure class="figure">
   <img src="/assets/images/rod_genomes_round1.png" alt="Preliminary ROD genome results" width="90%">
