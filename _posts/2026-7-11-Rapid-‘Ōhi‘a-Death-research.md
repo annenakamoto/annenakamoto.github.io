@@ -48,8 +48,10 @@ My work will characterize the evolutionary history of ROD through comparative ge
 
 #### Progress so far
 
+Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. 
+
   <p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="45%" align="right" /></p>
-Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. One of these has been published as a genome announcement, representing the first publically available long-read genome of the _C. huliohia_ species. 
+One of these has been published as a genome announcement, representing the first publically available long-read genome of the _C. huliohia_ species. 
 
   <ul>
     <li><a class="link blue underline-hover" href="https://doi.org/10.1128/mra.00236-26"><i>Ceratocystis huliohia</i>:
@@ -58,14 +60,6 @@ Thus far, I have optimized fungal culture, high molecular weight DNA extraction,
         isolate C25-5 (GCA_054512535.1) on NCBI</a></li>
   </ul>
 
-  <p class="pub-citation"><strong>Anne Nakamoto</strong>, Lisa Keith, Qingyi Yu, Lionel Sugiyama, 
-    Xiaohua Wu, Blaine Luiz, MaryAnn Villalun, Jodie Jacobs, Russ Corbett-Detig, Ariana Cisneros, Harrison D. Heath, Cole Shanks, 
-    Faith Okamoto, Alexis Abigail Aroma Albura, Kyle Henricson, Yi Jun Lan, Henry Moore, William Seligmann, Yulia Zybina.
-    Genome sequence of <i>Ceratocystis huliohia</i>, a fungal pathogen of the native ‘ōhi‘a tree in Hawai‘i.       
-    <a class="link blue underline-hover" href="https://doi.org/10.1128/mra.00236-26">
-      Microbiology Resource Announcements, 0:e00236-26.
-      </a>
-    </p>
 
 My preliminary analyses of this initial set of genomes show that _C. lukuohia_ has a larger genome size and greater repeat content than _C. huliohia_. Additionally, analysis of single nucleotide polymorphisms (SNPs) and SVs show greater diversity in _C. huliohia_ than _C. lukuohia_, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
 
