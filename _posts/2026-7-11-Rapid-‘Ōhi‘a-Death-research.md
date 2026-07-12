@@ -32,6 +32,13 @@ Hawai‘i’s forests are currently threatened by Rapid ‘Ōhi‘a Death (ROD),
 
 My work will characterize the evolutionary history of ROD through comparative genomic analyses. Over the years since 2014, my collaborators at the USDA-ARS in Hawai‘i have isolated and archived fungal samples from infected ‘ōhi‘a throughout the Hawaiian Islands. I will generate long-read genome sequencing datasets of these isolates, assemble high quality genomes, and investigate their diversity and evolutionary history. Understanding the evolutionary histories and invasion dynamics of these two pathogens will help to inform appropriate management strategies of ROD and increase preparedness for handling future diseases of the ‘ōhi‘a.
 
+<figure class="figure">
+  <img src="/assets/images/hawaii_rod_isolate_map_2026.png" alt="USDA ROD isolates map" width="90%">
+  <figcaption>
+    Map of the isolation location and year of ROD isolates archived by Dr. Lisa Keith and team at the USDA in Hilo, HI.
+  </figcaption>
+</figure>
+
 #### Progress so far
 
 Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. My preliminary analyses of these genomes show that _C. lukuohia_ has a larger genome size and greater TE content than _C. huliohia_. Additionally, analysis of single nucleotide polymorphisms (SNPs) and SVs show greater diversity in _C. huliohia_ than _C. lukuohia_, as expected. However, diversity analyses also show that further sequencing is necessary to fully capture the variation within both species.
@@ -46,8 +53,11 @@ Thus far, I have optimized fungal culture, high molecular weight DNA extraction,
 ### Sources
 
 
-Jacobi JD, Boehmer HJ, Fortini LB, Gon SMO III, Mertelmeyer L, Price J. 2024. ‘Ōhi‘a Lehua (Metrosideros polymorpha): a most resilient and persistent foundation species in Hawaiian forests. Pacific Science 77.
+  <p class="pub-citation">Jacobi JD, Boehmer HJ, Fortini LB, Gon SMO III, Mertelmeyer L, Price J. 2024. ‘Ōhi‘a Lehua (Metrosideros polymorpha): a most resilient and persistent foundation species in Hawaiian forests. Pacific Science 77.     
+    </p>
 
-Keith LM, Hughes RF, Sugiyama LS, Heller WP, Bushe BC, Friday JB. 2015. First report of Ceratocystis wilt on ʻŌhiʻa (Metrosideros polymorpha). Plant Dis 99:1276.
+  <p class="pub-citation">Keith LM, Hughes RF, Sugiyama LS, Heller WP, Bushe BC, Friday JB. 2015. First report of Ceratocystis wilt on ʻŌhiʻa (Metrosideros polymorpha). Plant Dis 99:1276.
+      </p>
 
-Luiz BC, Giardina CP, Keith LM, Jacobs DF, Sniezko RA, Hughes MA, et al. A framework for establishing a rapid ‘Ōhi‘a death resistance program. New For. 2023;54: 637–660. 
+  <p class="pub-citation">Luiz BC, Giardina CP, Keith LM, Jacobs DF, Sniezko RA, Hughes MA, et al. A framework for establishing a rapid ‘Ōhi‘a death resistance program. New For. 2023;54: 637–660. 
+      </p>
