@@ -50,7 +50,7 @@ My work will characterize the evolutionary history of ROD through comparative ge
 
 Thus far, I have optimized fungal culture, high molecular weight DNA extraction, and library preparation methods for the ROD species, and produced an initial set of long-read genome assemblies. 
 <p><img src="/assets/images/C25-5_genome.png" class="db ba w-100" width="45%" align="right" /></p>
-One of these has been published as a genome announcement, representing the first publically available long-read genome of the _C. huliohia_ species. 
+One of these has been published as a genome announcement, representing the first publically available long-read genome of the _C. huliohia_ species. For more details and to see how I used this genome for the training of fellow graduate students, see this [poster](https://github.com/annenakamoto/annenakamoto.github.io/blob/master/assets/posters/nhgri2026_anne.pdf).
 
   <ul>
     <li><a class="link blue underline-hover" href="https://doi.org/10.1128/mra.00236-26"><i>Ceratocystis huliohia</i>:
