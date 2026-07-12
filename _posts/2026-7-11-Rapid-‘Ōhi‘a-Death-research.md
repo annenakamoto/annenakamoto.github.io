@@ -20,6 +20,10 @@ tags:
 
 ### The Rapid ‘Ōhi‘a Death (ROD) disease has devastated ‘ōhi‘a forests
 
-Hawai‘i’s forests are currently threatened by Rapid ‘Ōhi‘a Death (ROD), a disease of the native ‘ōhi‘a tree. 
+Hawai‘i’s forests are currently threatened by Rapid ‘Ōhi‘a Death (ROD), a disease of the native ‘ōhi‘a tree. ROD was first characterized in 2014 and has since devastated ‘ōhi‘a forests, with >90% mortality in some areas on Hawai‘i Island. Researchers found that ROD is caused by two novel, invasive fungal pathogen species, Ceratocystis lukuohia and Ceratocystis huliohia. Although much work has been done to characterize this unprecedented disease and develop practical methods for detection and prevention, we don’t yet understand how these two distinct pathogens evolved to infect the ‘ōhi‘a upon introduction to Hawai‘i.
+
+### Producing genomic resources for studying the evolutionary history of ROD in Hawai‘i
+
+My work will characterize the evolutionary history of ROD through comparative genomic analyses. Over the years since 2014, my collaborators at the USDA-ARS in Hawai‘i have isolated and archived fungal samples from infected ‘ōhi‘a throughout the Hawaiian Islands. I will generate long-read genome sequencing datasets of these isolates, assemble high quality genomes, and investigate their diversity and evolutionary history. Understanding the evolutionary histories and invasion dynamics of these two pathogens will help to inform appropriate management strategies of ROD and increase preparedness for handling future diseases of the ‘ōhi‘a.
 
 ### Sources
